@@ -1,0 +1,1 @@
+document.getElementById('ticket_178523').firstElementChild.children[3].children[2].click()
